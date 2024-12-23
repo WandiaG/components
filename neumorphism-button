@@ -1,0 +1,20 @@
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<div class="bg-[#e2dce5] flex items-center justify-center h-screen">
+  <div class="h-[420px] w-[350px] rounded-xl bg-[liner-gradient(145deg, #cbc6ce, #f2ebf5)] shadow-[10px_10px_20px_#aea9b0,-10px_-10px_20px_#ffffff] rounded-3xl flex items-center justify-center flex-col space-y-4">
+    <div class="rounded-lg shadow-[inset_4px_4px_10px_#bcbcbc,inset_-4px_-4px_10px_#ffffff,4px_4px_10px_#bcbcbc,-4px_-4px_10px_#ffffff]"> 
+      <img src="https://media.istockphoto.com/id/1483329842/photo/studio-portrait-of-attractive-woman-wearing-shirt-and-laughing-while-sitting-at-isolated-grey.webp?a=1&b=1&s=612x612&w=0&k=20&c=QpCDzj5esUiEwtPhJhiyfZHPei53gkP-JXwqRS7TXPQ=" alt="" class="h-[150px] w-[200px] rounded-[50%]">
+    </div>
+    <div class="flex items-center justify-center gap-2">
+      <button class="bg-[#e0e0e0] rounded-[50px] shadow-[inset_4px_4px_10px_#bcbcbc,inset_-4px_-4px_10px_#ffffff] text-[#4d4d4d] cursor-pointer text-[18px] px-[40px] py-[15px] transition-all duration-200 ease-in-out border-[2px] border-[#cecece] hover:shadow-[inset_2px_2px_5px_#bcbcbc,inset_-2px_-2px_5px_#ffffff,2px_2px_5px_#bcbcbc,-2px_-2px_5px_#ffffff] focus:outline-none focus:shadow-[inset_2px_2px_5px_#bcbcbc,inset_-2px_-2px_5px_#ffffff,2px_2px_5px_#bcbcbc,-2px_-2px_5px_#ffffff]">call </button>
+      <button class="bg-[#e0e0e0] rounded-[50px] shadow-[inset_4px_4px_10px_#bcbcbc,inset_-4px_-4px_10px_#ffffff] text-[#4d4d4d] cursor-pointer text-[18px] px-[40px] py-[15px] transition-all duration-200 ease-in-out border-[2px] border-[#cecece] hover:shadow-[inset_2px_2px_5px_#bcbcbc,inset_-2px_-2px_5px_#ffffff,2px_2px_5px_#bcbcbc,-2px_-2px_5px_#ffffff] hover:text-green-800 focus:outline-none focus:shadow-[inset_2px_2px_5px_#bcbcbc,inset_-2px_-2px_5px_#ffffff,2px_2px_5px_#bcbcbc,-2px_-2px_5px_#ffffff]"> message me </button>
+    </div>
+    <div class="inline-flex text-pink-700 text-2xl space-x-5">
+      <i class="fa fa-github border-[2px] border-[#cecece] shadow-[inset_4px_4px_10px_#bcbcbc,inset_-4px_-4px_10px_#ffffff] py-2 px-2 rounded-xl" aria-hidden="true"></i>
+      <i class="fa fa-facebook border-[2px] border-[#cecece] shadow-[inset_4px_4px_10px_#bcbcbc,inset_-4px_-4px_10px_#ffffff] py-2 px-2 rounded-xl" aria-hidden="true"></i>
+      <i class="fa fa-twitter border-[2px] border-[#cecece] shadow-[inset_4px_4px_10px_#bcbcbc,inset_-4px_-4px_10px_#ffffff] py-2 px-2 rounded-xl" aria-hidden="true"></i>
+      <i class="fa fa-instagram border-[2px] border-[#cecece] shadow-[inset_4px_4px_10px_#bcbcbc,inset_-4px_-4px_10px_#ffffff] py-2 px-2 rounded-xl" aria-hidden="true"></i>
+      <i class="fa fa-comment border-[2px] border-[#cecece] shadow-[4px_4px_10px_#bcbcbc,-8px_-8px_20px_#ffffff] py-2 px-2 rounded-xl" aria-hidden="true"></i>
+    </div>
+  </div>
+</div>
